@@ -16,7 +16,7 @@ Este proyecto implementa una herramienta interactiva diseñada para explorar rel
 * `modelo_word2vec.model`: El modelo entrenado que contiene el vocabulario y los vectores.
 * `Procesamiento_de_Lenguaje_Natural_(NLP).ipynb`: Cuaderno de trabajo original de Google Colab.
 * `requirements.txt`: Lista de librerías necesarias (Gensim, Streamlit, Pandas).
-* `7305_Chatboty_de_NatuClean (1).pdf`: Documentación detallada del proyecto académico.
+* `7305_Chatboty_de_NatuClean (1).pdf`: Documento para colocarlo en archivos (dentro de colab) cuando se use el modelo.
 
 ## Instalación y Uso Local
 Para ejecutar este explorador en tu propia máquina:
